@@ -1,2 +1,2 @@
 # TrainityProject
-trainity projects from 5 to 8 
+Data analytics trainity projects from 5 to 8 
